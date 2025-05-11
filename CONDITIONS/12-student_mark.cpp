@@ -68,4 +68,16 @@ Roll no : 2334
  Total mark = 234        Percentage = 78
 Division = First Class.
 
+Input the roll no of the student : 3432
+Input the marks : 
+Physics : 34
+Chemistry : 34
+Computer Science : 45
+Roll no : 3432
+ Mark in Physics : 34
+ Mark in Chemistry : 34
+ Mark in Computer Science : 45
+ Total mark = 113        Percentage = 37
+Division = Fail.
+
 */
