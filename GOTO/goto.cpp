@@ -7,7 +7,7 @@ int main()
 {
     int n = 1;
 
-    print:
+    print:      // GOTO LABEL   
 
     cout<< "\n" << n;
     n = n + 1;
