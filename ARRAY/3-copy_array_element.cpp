@@ -23,6 +23,7 @@ int main()
     {
         arr_2[i] = arr_1[i];
     }
+    
     cout<< "The element stored in the first array are : \n";
     for(i = 0; i < size; i++)
     {
