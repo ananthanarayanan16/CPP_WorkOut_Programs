@@ -7,6 +7,4 @@ int main()
 {
     int size;
 
-    cout<< "Input the size of the array : ";
-    cin>> size;
 }
