@@ -6,5 +6,10 @@ using namespace std;
 
 int main()
 {
+    string abc;
     
+    cout<< "Enter your name : ";
+    cin>> abc;
+
+    return 0;
 }
