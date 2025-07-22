@@ -10,6 +10,7 @@ int main()
     
     cout<< "Enter your name : ";
     cin>> abc;
+    cout<< "Your name is : " << abc;
     
     return 0;
 }
